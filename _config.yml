@@ -5,6 +5,6 @@ twitter_username: lyledodge
 github_username: lyledodgepersonal
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll/minima@c6e74bb
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
